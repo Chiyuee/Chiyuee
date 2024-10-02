@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Artificial Intelligence Graduate
 --------------------------------
 
-AI developer. Working to make change in the AI space!
+Welcome to my Github profile! I'm a passionate AI developer that graduated on July 2024! My hobbies consist of playing video games (Tekken 8) and building Gundams. I also love reading and try to be active with non-fictional books.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [anthonykwok2000@hotmail.com](mailto:anthonykwok2000@hotmail.com)
